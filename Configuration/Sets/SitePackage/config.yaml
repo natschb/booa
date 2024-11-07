@@ -1,5 +1,5 @@
 name: booa/site-package
-label: Example site package set booa
+label: Example site package set booa TEST
 dependencies:
     - typo3/fluid-styled-content
     - typo3/fluid-styled-content-css
