@@ -1,0 +1,10 @@
+name: booa/minimal-set
+label: "booa Minimal"
+settings:
+    website:
+        background:
+            color: '#386492'
+dependencies:
+#    - booa/other-set
+#    - another-vendor/fancy-carousel
+    ddev composer req t3docs/site-package-data
